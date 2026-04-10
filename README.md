@@ -20,12 +20,13 @@ npm run dev
 Site runs at `localhost:4321`.
 
 ## Structure
-src/
-├── content/      # Blog posts and projects (Markdown)
-├── data/         # Site config
-├── pages/        # Page routes
-├── styles/       # Global CSS and theme
-└── components/   # Astro components
+
+    src/
+    ├── content/      # Blog posts and projects (Markdown)
+    ├── data/         # Site config
+    ├── pages/        # Page routes
+    ├── styles/       # Global CSS and theme
+    └── components/   # Astro components
 
 ## About
 
