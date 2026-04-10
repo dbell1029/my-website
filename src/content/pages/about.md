@@ -22,8 +22,4 @@ Right now I'm in a transition period, figuring out what's next, and leaning into
 
 I'm a hardcore Harry Potter fan! I dabble in short-form content ([@dabisbesh](https://instagram.com/dabisbesh)) covering HP lore, the upcoming HBO series, fanfic reviews, and fan commentary. It's a passion project that I'm having a lot of fun with.
 
-I'm also an avid gamer, a Stoicism enthusiast, and someone who gravitates toward fast-moving problems and creative environments.
-
-## Get in touch
-
-Always happy to connect -- whether it's about data, gaming, Harry Potter, or anything else, please reach out!
+I'm also an avid gamer, Stoicism enthusiast, certified Utahn (hiker), and someone who gravitates toward fast-moving problems and creative environments.
