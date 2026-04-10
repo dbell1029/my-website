@@ -5,7 +5,7 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thanks for reaching out! Feel free to get in touch:
+Thanks for visiting, feel free to reach out:
 
 * [Email](mailto:d.bjorn.bell@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/belldavidb/)
