@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'data | gaming | content',
     description: 'Personal site of David Bell — data, gaming, and everything in between.',
     image: {
-        src: '/dante-preview.jpg',
+        src: 'preview.jpeg',
         alt: 'David Bell personal website'
     },
     headerNavLinks: [
