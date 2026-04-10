@@ -3,17 +3,17 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://david-bell.net',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'David Bell'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'David Bell',
+    subtitle: 'data | gaming | content',
+    description: 'Personal site of David Bell — data, gaming, and everything in between.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'David Bell personal website'
     },
     headerNavLinks: [
         {
@@ -21,16 +21,16 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
+            text: 'Posts',
+            href: '/blog'
+        },
+        {
             text: 'Projects',
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
+            text: 'About',
+            href: '/about'
         }
     ],
     footerNavLinks: [
@@ -41,36 +41,28 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/belldavidb/'
+        },
+        {
+            text: 'GitHub',
+            href: 'https://github.com/dbell1029'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://instagram.com/dabisbesh'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hey, I\'m David.',
+        text: "I spent over four years working on **Fortnite** at Epic Games, most recently as Competitive Operations Manager. I care about data, great products, and building things.\n\nOutside of work I'm a hardcore Harry Potter fan, avid gamer, LARPing outdoorsman, and content creator over at [@dabisbesh](https://instagram.com/dabisbesh).\n\nThis is my internet nook — projects, blog posts, and whatever else I feel like putting here.\n\nWelcome!",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'David Bell'
         },
         actions: [
             {
@@ -80,8 +72,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
+        enabled: false,
+        title: 'Subscribe to my newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         form: {
             action: '#'

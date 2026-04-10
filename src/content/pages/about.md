@@ -2,42 +2,28 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Learn more about David Bell — data, gaming, and everything in between.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
+    alt: David Bell
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
+![David Bell](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Hey, I'm David.
 
-## Ethan Donovan - Web Developer based in Estonia
+I spent over four years at Epic Games working on Fortnite — most recently as Competitive Operations Manager, where I ran the systems and logistics behind one of the biggest esports in the world. It was a wild, fast-paced environment and I loved every second at Epic.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+My background is a bit of a mix. I have a B.S. in Data Science from BYU-Idaho, and throughout my time at Epic I did a lot of work in SQL — forecasting tournament concurrent users, querying player info and leaderboard results, and digging into data to make better decisions. The competitive ops role was my primary function, but data was always woven into how I worked.
 
-## Skills and Expertise
+Right now I'm in a transition period, figuring out what's next, and leaning into the technical side of things more intentionally. I'm interested in data science, analytics, and software, and I'm actively building toward roles that let me dig deeper there.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+## Outside of work
 
-## Innovation and Problem-Solving
+I'm a hardcore Harry Potter fan! I dabble in short-form content ([@dabisbesh](https://instagram.com/dabisbesh)) covering HP lore, the upcoming HBO series, fanfic reviews, and fan commentary. It's a passion project that I'm having a lot of fun with.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I'm also an avid gamer, a Stoicism enthusiast, and someone who gravitates toward fast-moving problems and creative environments.
 
-## Global Perspective, Local Impact
+## Get in touch
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
-
-## Continuous Learning
-
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Always happy to connect -- whether it's about data, gaming, Harry Potter, or anything else, please reach out!
