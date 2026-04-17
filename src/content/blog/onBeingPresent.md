@@ -11,7 +11,7 @@ I was recently laid off and I've found myself with more free time than perhaps I
 
 The mountains here in Utah are simply gorgeous. They're visible everywhere you drive and I have a hard time articulating how much I love them! Every time I experience a particularly beautiful sunset, with the snowcapped peaks alight with alpenglow, I remember how it could be my last, how tomorrow isn't promised. My anxieties and worries fade away and all that actually matters is that moment.
 
-And yet, more often than not my mind remains firmly elsewhere. I know I shouldn't be upset with myself - everyone struggles to stay present - but I can't help but feel discouraged. That said, I firmly believe that more important than position is direction. Marcus Aurelius writes at length in _Meditations_ about constant and consistent 'redirection'. No shame, just a steady correction. 
+And yet, more often than not my mind wanders elsewhere. I know I shouldn't be upset with myself - everyone struggles to stay present - but I can't help but feel discouraged. That said, I firmly believe that more important than position is direction. Marcus Aurelius writes at length in _Meditations_ about constant and consistent 'redirection'. No shame, just a steady correction. 
 
 So when I look at my wrist and see "HERE RIGHT NOW", I remember that I don't make these bracelets because I've got it figured out, I make them because I haven't.
 
