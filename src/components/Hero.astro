@@ -1,12 +1,19 @@
 ---
+import { getCollection } from 'astro:content';
 import { marked } from 'marked';
+import { sortItemsByDateDesc } from '../utils/data-utils';
 import type { Hero as HeroProps } from '../types';
 import Button from './Button.astro';
 import CustomImage from './CustomImage.astro';
+import PostPreview from './PostPreview.astro';
+import ProjectPreview from './ProjectPreview.astro';
 
 type Props = HeroProps;
 
 const { title, image, text, actions } = Astro.props;
+
+const latestBlog = (await getCollection('blog')).sort(sortItemsByDateDesc)[0];
+const latestProject = (await getCollection('projects')).sort(sortItemsByDateDesc)[0];
 ---
 
 {
@@ -32,6 +39,13 @@ const { title, image, text, actions } = Astro.props;
                     {actions.map((action) => (
                         <Button href={action.href}>{action.text}</Button>
                     ))}
+                </div>
+            )}
+            {(latestBlog || latestProject) && (
+                <div class="mt-8">
+                    <h2 class="font-serif text-xl font-medium mb-4">Latest</h2>
+                    {latestBlog && <PostPreview post={latestBlog} class="mb-4" />}
+                    {latestProject && <ProjectPreview project={latestProject} />}
                 </div>
             )}
         </section>

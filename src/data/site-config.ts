@@ -25,6 +25,10 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
+            text: 'Projects',
+            href: '/projects'
+        },
+        {
             text: 'About',
             href: '/about'
         }
@@ -66,17 +70,7 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        enabled: false,
-        title: 'Subscribe to my newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
-    },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    }
 };
 
 export default siteConfig;
