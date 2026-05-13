@@ -1,6 +1,10 @@
 ---
 title: Is Resting Heart Rate King?
 publishDate: 2026-05-13
+seo:
+  image:
+    src: ../../assets/images/sleepyBryan.png
+    alt: Bryan Johnson looking sleepy
 ---
 
 ![This is what peak performance looks like](../../assets/images/sleepyBryan.png)
